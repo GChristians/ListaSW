@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/* Página 1 */
+
+img.NaoPossui
+{
+	opacity: 0.35;
+}
+img.Possui
+{
+	opacity: 1;
+}
+p{
+	font-weight: bold;
+}
+.clearfix
+{
+	margin-top:0.7em;
+	margin-left: 3em;
+}
+.NaoExiste
+{
+	opacity: 0.35;
+}
